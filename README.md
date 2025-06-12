@@ -1,2 +1,2 @@
-# SnakeGameByTWK
+# Code by TWK
 C++
